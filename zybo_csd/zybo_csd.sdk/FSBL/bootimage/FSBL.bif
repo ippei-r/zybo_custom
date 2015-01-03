@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/home/ippei/work/zybo_base/zybo_csd/zybo_csd.sdk/FSBL/Debug/FSBL.elf
+	/home/ippei/work/zybo_base/zybo_csd/zybo_csd.sdk/system_wrapper_hw_platform_0/system_wrapper.bit
+	/home/ippei/work/zybo_base/zybo_base_system/sd_image/u-boot.elf
+}
